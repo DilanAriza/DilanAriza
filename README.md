@@ -1,12 +1,15 @@
 # ¡Hola! Soy Dilan Santiago
 
+## 📝 Stats
 
 <div align="center">
   <a href="https://github.com/DilanAriza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilanAriza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanAriza&layout=compact&langs_count=20&theme=dark"/>
 </div>
-  ## 🚀 Skills
+  
+## 🚀 Skills
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
