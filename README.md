@@ -1,6 +1,6 @@
 # ¡Hola! Soy Dilan Santiago
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=200&center=cierto&vCenter=falso&multiline=true&width=4000&height=500&lines=Welcome+I+am+a+back-end+developer-and-SRE.+)](https://github.com/DilanAriza)
+[![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanAriza)](https://github.com/DilanAriza)
 
 
 <div align="center">
