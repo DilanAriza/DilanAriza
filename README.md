@@ -1,11 +1,27 @@
 # ¡Hola! Soy Dilan Santiago
 
-Soy un desarrollador Backend y Frontend de Platzi (Comunidad y escuela de desarrollo de Software mas grande del mundo hispanohablante). Me gusta crear aplicaciones Full Stack Basadas en [React](https://es.reactjs.org/) / [Express](https://expressjs.com/es/) / [NodeJS](http://nodejs.org/), fáciles de utilizar y construidas con las mejores practicas de las [Clean Architectures](https://www2.deloitte.com/es/es/pages/technology/articles/clean-architecture.html).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=200&center=cierto&vCenter=falso&multiline=true&width=4000&height=500&lines=Welcome+I+am+a+back-end+developer-and-SRE.+)](https://github.com/DilanAriza)
 
-Con experiencia en Bases de datos relacionales como Sql (Mysql, MariaDB) y no relacionales (MongoDB, Firebase). E integración de ORM's como Mongoose en Nodejs (Express).
 
-## Puedes encontrarme en:
-- [Platzi](https://platzi.com/p/Dilan-Santiago-Ariza/)
-- [LinkedIn](https://www.linkedin.com/in/dilan-santiago-ariza-ca%C3%B1on-722a471b1/)
-- [Medium](https://medium.com/@dilansantiagoariza)
-- [Instagram](https://www.instagram.com/dilan_ariza_/)
+<div align="center">
+  <a href="https://github.com/DilanAriza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DilanAriza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanAriza&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="Rafa-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:dilansantiagoariza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dilan-santiago-ariza-canon-722a471b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
