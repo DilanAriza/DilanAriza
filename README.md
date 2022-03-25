@@ -18,6 +18,8 @@
   <img align="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
    
+  
+## 📱 Contact
 <br>
 <div>
   <a href="https://www.linkedin.com/in/dilan-santiago-ariza-canon-722a471b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
