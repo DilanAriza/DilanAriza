@@ -1,8 +1,5 @@
 # ¡Hola! Soy Dilan Santiago
-
-# [![Dilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanAriza)](https://github.com/DilanAriza)
-
-![Dilan's  GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanAriza&show_icons=true&theme=onedark)
+![Dilan's  GitHub stats](https://github-readme-stats.vercel.app/api?username=DilanAriza&show_icons=true&theme=dark)
 
 <div align="center">
   <a href="https://github.com/DilanAriza">
