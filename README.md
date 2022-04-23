@@ -1,4 +1,4 @@
-# ¡Hola! Soy Dilan Santiago
+# ¡Hi! I'm Dilan Santiago
 
 ## 📝 Stats
 
