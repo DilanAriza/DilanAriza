@@ -1,4 +1,4 @@
-# ¡Hi! I'm Dilan Santiago
+# ¡Hi! I'm Dilan Ariza
 
 ## 📝 Stats
 
